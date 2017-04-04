@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_education"
+            android:icon="@drawable/ic_menu_education"
+            android:title="Education" />
+        <item
+            android:id="@+id/nav_experience"
+            android:icon="@drawable/ic_menu_experience"
+            android:title="Experience" />
+        <item
+            android:id="@+id/nav_projects"
+            android:icon="@drawable/ic_menu_projects"
+            android:title="Projects" />
+
+    </group>
+    <item android:title="Social">
+        <menu>
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/ic_menu_facebook"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/ic_menu_twitter"
+                android:title="Twitter" />
+            <item
+                android:id="@+id/nav_linkedin"
+                android:icon="@drawable/ic_menu_linkedin"
+                android:title="Linked In" />
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_menu_contact"
+                android:title="Contact Me" />
+        </menu>
+    </item>
+</menu>

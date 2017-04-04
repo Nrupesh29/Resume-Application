@@ -1,0 +1,91 @@
+{
+	"education": 
+	[
+		{
+		"name": "San Jose State University",
+		"degree": "M.S. in Software Engineering",
+		"duration": "2016-2018",
+		"location": "San Jose, CA, USA",
+		"logo": "sjsu"
+		},
+		{
+		"name": "Udacity",
+		"degree": "Nanodegree in Android Development",
+		"duration": "2016",
+		"location": "Mountain View, CA, USA",
+		"logo": "udacity"
+		},
+		{
+		"name": "Gujarat Technological University",
+		"degree": "B.E. in Computer Science",
+		"duration": "2012-2016",
+		"location": "Ahmedabad, GJ, India",
+		"logo": "gtu"
+		}
+	],
+	"experience":
+	[
+		{
+			"name": "San Jose State University",
+			"position": "Instructional Student Assistant",
+			"duration": "2017-Present",
+			"location": "San Jose, CA, USA",
+			"logo": "sjsu"
+		},
+		{
+			"name": "Avalance Global Solutions",
+			"position": "Android Developer",
+			"duration": "2016",
+			"location": "Vadodara, GJ, India",
+			"logo": "avalance"
+		}
+	],
+	"projects":
+	[
+		{
+			"name": "Drug Watch",
+			"platform": "Android",
+			"duration": "September 2016 - December 2016",
+			"location": "San Jose State University",
+			"description": "Medicine is rigorously tested for safety and effectiveness before becoming available to the consumer. In the U.S., the FDA makes sure this happens. Once on the market, the FDA, along with the makers of the drug, continue to monitor the medicine for any unforeseen problems. Should an issue develop, or the safety of a medication come into question, a recall may be initiated. We should stop taking the recalled medicine at once. Not everyone is educated about drug recalls in the market. We are proposing a mobile application DrugWatch that will scan the medicine bottle and search the FDA database to determine if the scanned bottle is recalled drug or not.",
+			"link": "https://github.com/Nrupesh29/DrugWatch",
+			"logo": "drugwatch"
+		},
+		{
+			"name": "Mobile Sensor Cloud",
+			"platform": "IaaS",
+			"duration": "September 2016 - December 2016",
+			"location": "San Jose State University",
+			"description": "Mobile Sensor Cloud is an Infrastructure-as-a-Service (IaaS) for mobile sensors. Sensors can be placed anywhere in the world and data from those sensors can be access using this system.",
+			"link": "https://github.com/Nrupesh29/Mobile-Sensor-Cloud",
+			"logo": "mobilesensorcloud"
+		},
+		{
+			"name": "Pitch Perfect",
+			"platform": "iOS",
+			"duration": "August 2016 - September 2016",
+			"location": "Udacity",
+			"description": "PitchPerfect is an iPhone app that will allow users to record their voice and will then modulate the recorded audio to sound like a Chipmunk or Darth Vader. This app will also let the user speed up or slow down the rate of playback.",
+			"link": "https://github.com/Nrupesh29/PitchPerfect",
+			"logo": "pitchperfect"
+		},
+		{
+			"name": "Bubble Fight",
+			"platform": "Java Game",
+			"duration": "September 2016 - December 2016",
+			"location": "San Jose State University",
+			"description": "CS Unplugged is a collection of free learning activities that teach Computer Science through engaging games and puzzles. We are presenting a game BubbleFight which will introduce players to computational thinking through Binary Numbers. It is a multiplayer game where players will be given a binary equation and they need to solve the equation and find the decimal equivalent for the answer. Players will play as birds in the game who need to burst the correct answer bubble. Game has a set of rules which add to the competitive nature of game.",
+			"link": "https://github.com/Nrupesh29/BubbleFight",
+			"logo": "bubblefight"
+		},
+		{
+			"name": "University Management",
+			"platform": "Android",
+			"duration": "August 2015 - June 2016",
+			"location": "Gujarat Technological University",
+			"description": "Managing student attendance and syllabus tracking are the two most tedious tasks in most of the Universities. University Management is an android app that makes it possible to manage attendance and track syllabus with just few clicks using a mobile phone.",
+			"link": "https://github.com/Nrupesh29/University-Management",
+			"logo": "universitymanagement"
+		}
+	]
+}

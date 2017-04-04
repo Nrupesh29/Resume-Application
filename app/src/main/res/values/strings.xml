@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">A results-driven, customer-focused, articulate and analytical Software Engineer who can think “out of the box”. Strong in design and integration problem-solving skills. Expert in Java, Objective-C, PHP, and MySQL with database analysis and design. Skilled in developing business plans, requirements specifications, user documentation, and architectural systems research. Strong written and verbal communications. Interested in a challenging technical track career in an application development environment.</string>
+    <string name="app_name">Nrupesh Patel</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+</resources>
